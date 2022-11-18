@@ -1,1 +1,2 @@
-# Music Recommendation based on Facial Emotion Recognition
+# Facial Recognition to Detect Mood and Recommend Songs
+
